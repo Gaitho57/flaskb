@@ -1,2 +1,1 @@
 FlaskBlog
-Jinja2
